@@ -1,0 +1,26 @@
+﻿<Window x:Class="LoginWPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:LoginWPF"
+        mc:Ignorable="d"
+        Title="LOGIN " Height="400" Width="400" FontSize="14" Background="Black" WindowStartupLocation="CenterScreen">
+    <Border Background="WhiteSmoke" CornerRadius="20" Margin="20">
+        <StackPanel Margin="20">
+            <Label Foreground="Black" FontSize="25" HorizontalAlignment="Center" >
+                <Bold> Login</Bold>
+            </Label>
+            <Separator Background="Black"></Separator>
+            <Label Foreground="Blue" >
+                <Bold>Usuario</Bold>
+            </Label>
+            <TextBox Name="txtUsuario" Foreground="Black" FontSize="18"></TextBox>
+            <Label Foreground="Blue">
+                <Bold> Contraseña</Bold>
+            </Label>
+            <PasswordBox Name="txtPasword" Foreground="Black" FontSize="18"></PasswordBox>
+            <Button Name="btnEntrar" Margin="60 10" Background="#545d6a" Foreground="Black" Height="50" Click="btnEntrar_Click"> Entrar</Button>
+        </StackPanel>
+    </Border>
+</Window>
