@@ -66,7 +66,7 @@ Lo siguiente que aremos es agregar una clase a nuestro proyecto en donde manejar
 <center>
 </center>
 <br />
-<iframe height="480" src="https://drive.google.com/file/d/1nfLVBJ_PuUmmeL7HM1W3z6Ge7liOfExU/preview" width="500"></iframe>
+https://drive.google.com/file/d/1nfLVBJ_PuUmmeL7HM1W3z6Ge7liOfExU/preview" 
 
 <br />
 <br />
