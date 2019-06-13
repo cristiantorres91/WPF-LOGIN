@@ -156,7 +156,7 @@ Como pueden ver lo único que hacemos es invocar el método <b>Autenticar</b> de
 <center>
 </center>
 <br />
-<iframe height="480" src="https://drive.google.com/file/d/1IjpykGVQ3SQKItdsF54K94PxP6niVT5A/preview" width="500"></iframe>
+https://drive.google.com/file/d/1IjpykGVQ3SQKItdsF54K94PxP6niVT5A/preview" 
 
 
 <br />
