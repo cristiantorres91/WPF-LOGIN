@@ -1,24 +1,18 @@
 # WPF-LOGIN
 Crear Login en WPF C#
 
-Hola a todos espero se encuentre muy bien, después de mucho tiempo sin actualizar mi blog(por muchas razones, estudio,trabajo, proyectos personales. etc.). Agradezco a todos los que me escriben haciéndome consultas y agradeciendo por compartir mis conocimientos y pues aunque ha pasado mucho tiempo que no subo nada al blog aun me siguen escribiendo y pues aprovecho la ocasión para enviarles un saludo y decirles que de ahora en adelante tratare de ir contestando sus dudas o preguntas que me hacen llegar por medio de este blog. Tratare de estar haciendo entre 1 y 3 artículos al mes.<br />
-<br />
-Bueno después de esta aclaración, vamos a lo que nos apasiona que es programar, en este articulo veremos como crear un <b>Login </b>en <b>WPF</b> usando <b>C# </b>y que este me muestre el nombre del usuario que a iniciado sesión. que es una de las consultas que me hacia un lector de mi blog&nbsp; así que manos a la obra.<br />
+Articulo completo: http://cristiantorresalfaro.blogspot.com/2019/05/crear-login-wpf-c.html
+
+
+En este articulo veremos como crear un <b>Login </b>en <b>WPF</b> usando <b>C# </b>y que este me muestre el nombre del usuario que a iniciado sesión. que es una de las consultas que me hacia un lector de mi blog&nbsp; así que manos a la obra.<br />
 <br />
 El ejemplo lo he realizado usando SQL SERVER 2014 EXPRESS y VS 2017<br />
 <br />
 La base de datos que ocupare en esta ocasión se llama Usuarios y solo cuenta con una tabla Usuario<br />
-<br />
-<iframe height="480" src="https://drive.google.com/file/d/1R6puE4HGkOfpWMONybpPjrC85AmbgXzT/preview" width="500"></iframe>
 
 <br />
-<br />
-<br />
-Lo primero que aremos sera crear nuestro proyecto WPF en Visual Studio
-<br />
-<iframe height="480" src="https://drive.google.com/file/d/1T5wDcJyELKwHtblwF-QhwpjYt-OuITFN/preview" width="500"></iframe>
+Creamos nuestro  proyecto WPF en Visual Studio
 
-<br />
 <div class="separator" style="clear: both; text-align: center;">
 </div>
 <br />
